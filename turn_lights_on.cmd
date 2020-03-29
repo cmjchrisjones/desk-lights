@@ -1,1 +1,1 @@
-E:\Stream\apps\desk-lights\desk-lights-win.exe 255
+E:\Stream\apps\desk-lights\executables\desk-lights-win.exe 255
