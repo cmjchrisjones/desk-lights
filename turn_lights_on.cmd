@@ -1,0 +1,1 @@
+E:\Stream\apps\desk-lights\desk-lights-win.exe 255

@@ -1,0 +1,15 @@
+{
+  "name": "desk-lights",
+  "version": "1.0.0",
+  "description": "Something to control my desk lights RGB Strip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "index.js",
+  "author": "Chris Jones",
+  "license": "ISC",
+  "dependencies": {
+    "magic-home": "^2.4.1"
+  }
+}
