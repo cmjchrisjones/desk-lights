@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Something to control my desk lights RGB Strip",
   "main": "index.js",
+  "repository": "https://github.com/cmjchrisjones/desk-lights",
   "scripts": {
     "start": "node index.js"
   },
