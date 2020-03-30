@@ -1,0 +1,16 @@
+on:
+  push:
+    branches: 
+      - master
+      - workflow
+
+name: Package Extension
+jobs: 
+  package:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install
+      - uses: cmjchrisjones/npm-pkg-github-action@master
+        with:
+          args: "pkg --out-path exes package.json" 
