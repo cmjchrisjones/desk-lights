@@ -12,5 +12,3 @@ jobs:
       - uses: actions/checkout@v2
       - run: npm install
       - uses: cmjchrisjones/npm-pkg-github-action@master
-      - with: 
-          args: "pkg"
