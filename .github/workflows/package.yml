@@ -2,6 +2,7 @@ on:
   push:
     branches: 
       - master
+      - workflow
 
 name: Package Extension
 jobs: 
